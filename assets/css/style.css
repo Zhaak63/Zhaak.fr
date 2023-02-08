@@ -35,8 +35,8 @@
   ), hsl(0, 0%, 13%);
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right, 
-    hsl(340, 82%, 59%) 0%, 
-    hsla(36, 100%, 69%, 0) 50%
+    hsl(348, 80%, 50%) 0%, 
+    hsla(348, 80%, 50%) 50%
   );
   --bg-gradient-yellow-2: linear-gradient(
     135deg, 
@@ -50,8 +50,8 @@
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
-    hsl(340, 82%, 59%), 
-    hsl(340, 82%, 59%)
+    hsl(348, 80%, 50%), 
+    hsl(348, 80%, 50%)
   );
 
   /* solid */
@@ -63,7 +63,7 @@
   --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(340, 82%, 59%);
+  --orange-yellow-crayola: hsl(348, 80%, 50%);
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
@@ -1776,13 +1776,13 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   body::-webkit-scrollbar-thumb {
     border: 5px solid var(--smoky-black);
-    background: hsla(340, 82%, 59%);
+    background: hsla(240, 18%, 15%);
     border-radius: 20px;
-    box-shadow: inset 1px 1px 0 hsla(340, 82%, 40%),
-                inset -1px -1px 0 hsla(340, 82%, 59%);
+    box-shadow: inset 1px 1px 0 hsla(240, 18%, 15%),
+                inset -1px -1px 0 hsla(240, 18%, 15%);
   }
 
-  body::-webkit-scrollbar-thumb:hover { background: hsla(340, 82%, 59%); }
+  body::-webkit-scrollbar-thumb:hover { background: hsla(240, 18%, 15%); }
 
   body::-webkit-scrollbar-button { height: 60px; }
 
