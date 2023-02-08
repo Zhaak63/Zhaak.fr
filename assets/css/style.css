@@ -25,14 +25,14 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
+    hsl(240, 1%, 25%) 3%,  /* fond avatar */
     hsl(0, 0%, 19%) 97%
   );
   --bg-gradient-jet: linear-gradient(
     to bottom right, 
     hsla(0, 0%, 18%, 0.251) 0%, 
     hsla(0, 0%, 11%, 0) 100%
-  ), hsl(0, 0%, 13%);
+  ), hsl(240, 16%, 13%); /* fond bouton */
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right, 
     hsl(348, 80%, 50%) 0%, 
@@ -45,7 +45,7 @@
   ), hsl(240, 18%, 15%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 16%, 13%) 0%, 
+    hsl(240, 16%, 13%) 0%,  /* fond commentaire et ce que je fait */
     hsla(240, 18%, 15%) 50%
   );
   --text-gradient-yellow: linear-gradient(
@@ -58,8 +58,8 @@
 
   --jet: hsl(240, 18%, 15%); /* contour */
   --onyx: hsl(240, 18%, 15%);
-  --eerie-black-1: hsl(240, 18%, 15%);
-  --eerie-black-2: hsl(240, 18%, 15%);
+  --eerie-black-1: hsl(240, 16%, 13%); /* fond info profil */
+  --eerie-black-2: hsl(240, 16%, 13%);
   --smoky-black: hsl(240, 16%, 13%); /* fond du site */
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
