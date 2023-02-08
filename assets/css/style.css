@@ -42,7 +42,7 @@
     135deg, 
     hsla(45, 100%, 71%, 0.251) 0%, 
     hsla(35, 100%, 68%, 0) 59.86%
-  ), hsl(240, 2%, 13%);
+  ), hsl(240, 18%, 15%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(0, 0%, 25%) 0%, 
@@ -58,9 +58,9 @@
 
   --jet: hsl(0, 0%, 22%);
   --onyx: hsl(240, 1%, 17%);
-  --eerie-black-1: hsl(240, 2%, 13%);
+  --eerie-black-1: hsl(240, 18%, 15%);
   --eerie-black-2: hsl(240, 18%, 15%);
-  --smoky-black: hsl(240, 16%, 13%);
+  --smoky-black: hsl(240, 16%, 13%); /* fond du site */
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --orange-yellow-crayola: hsl(348, 80%, 50%);
