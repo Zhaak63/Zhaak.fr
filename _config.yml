@@ -1,0 +1,47 @@
+title         : Vyshnav Gangadharan
+role          : Product Designer
+description   : >- # this means to ignore newlines until "baseurl:"
+  A UI/UX designer who loves Coding, Illustrating & creating 3D stuff
+baseurl       : "" # the subpath of your site, e.g. /blog
+url           : "https://links.vyshnav.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+keywords      : vyshnav,vg,vyshnav gangadharan, indian designer, uiux designer, illustrator, developer, notion, blender
+theme-color   : "#4ade80"
+
+gravatar      : 7a7483bd1b6f579f86da0f3818b90758     # Gravatar md5 hash
+image         : /assets/avatar.png
+
+
+### Author Info ###
+author:
+  name              : Vyshnav Gangadharan
+  twitter           : vyshnav_xyz
+  figma             : vyshnav
+  dribbble          : vyshnav_
+  github            : Vyshnav2255
+  linkedin          : vyshnav-gangadharan
+#  goodreads         : vyshnav
+  buy me a coffee   : vyshnav
+#  youtube           : vyshnav
+#  facebook          : vyshnav
+#  twitch            : vyshnav
+#  instagram         : vyshnav
+#  gitlab            : vyshnav
+#  codepen           : vyshnav
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: G-GD7E2GW8RY
+
+sass:
+    style: compressed
+
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - vendor
