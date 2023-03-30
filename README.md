@@ -1,5 +1,5 @@
 # community-architects.net
-The Community Architects homepage
+Zhaak.fr homepage
 
 ## Scripts
 
